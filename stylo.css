@@ -1,0 +1,35 @@
+
+body {
+    background-color: rgb(210, 226, 219) ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px; color: black;
+    text-align:left;
+    padding: 20px;
+    margin: 10px;
+   
+}
+.one{
+    text-align: center;
+    text-overflow: initial;
+    pointer-events: painted;
+}
+.h2 {
+    color: darkslateblue;
+    border-color: 1px;
+    text-decoration-color: opaco;
+}
+.p{
+    text-shadow: darkslategrey;
+}
+.container {
+    width: 900px;
+    text-align: center;
+    color: rgb(100, 139, 100);
+
+}
+.iframe {
+    float: left;
+}
+h1 {
+    text-decoration: underline;
+}
